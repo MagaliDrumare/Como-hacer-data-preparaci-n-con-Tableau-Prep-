@@ -1,19 +1,19 @@
 # Que es Tableau Prep ? 
--Tableau Prep hace parte de Tableau Creator. 
--Tableau Prep hace partenece a  la nueva oferta de Tableau: Tableau Creator. 
--Tableau Creator es una solution para los analystas que producen dashboards y business analysis. 
--Tableau Creator se consigue una experiencia analítica total dando todo el poder a los usuarios. 
-Incluye Tableau Desktop, una licencia para Tableau Server o Tableau Online además de Tableau Prep.
+### Tableau Prep hace parte de Tableau Creator. 
+### Tableau Prep hace partenece a  la nueva oferta de Tableau: Tableau Creator. 
+### Tableau Creator es una solution para los analystas que producen dashboards y business analysis. 
+### Tableau Creator se consigue una experiencia analítica total dando todo el poder a los usuarios. 
+### Incluye Tableau Desktop, una licencia para Tableau Server o Tableau Online además de Tableau Prep.
 
 
 # Una nueva herramienta facil e intuitiva : 
--Tableau Prep es una nuava herramienta que permite preparar los datos de manera facil e intuitiva.
--Los usarios de este nuevo producto son analistas que preparan ellos mismos los datos. 
--Para  utilisarlo, no se necesita compertencias particular en ETL. 
--Leer el articulo de Kerus Spain sobre la nueva oferta de Tableau : 
-* https://keyrusspain.wordpress.com/2018/05/08/extra-extra-tableau-nos-trae-novedades/
--Tableau Prep : to combine, shape, and clean your data for analysis
-* https://www.tableau.com/products/prep
+* Tableau Prep es una nuava herramienta que permite preparar los datos de manera facil e intuitiva.
+* Los usarios de este nuevo producto son analistas que preparan ellos mismos los datos. 
+* Para  utilisarlo, no se necesita compertencias particular en ETL. 
+* Leer el articulo de Kerus Spain sobre la nueva oferta de Tableau : 
+      * https://keyrusspain.wordpress.com/2018/05/08/extra-extra-tableau-nos-trae-novedades/
+* Tableau Prep : to combine, shape, and clean your data for analysis
+      * https://www.tableau.com/products/prep
 
 # Lo que se puede hacer con Tableau Prep 2018
 -Limpiar los datos : filtracion, agrupar y reemplazar
