@@ -33,6 +33,7 @@ https://www.tableau.com/products/prep
 
 -Crear Union 
 * https://www.tableau.com/fr-fr/learn/tutorials/on-demand/union-step?product=tableau_desktop+tableau_prep&version=tableau_prep_2018_1_1&topic=tableau_prep
+
 -Exportar los datos limpiados para analysis 
 * https://www.tableau.com/fr-fr/learn/tutorials/on-demand/output-step?product=tableau_desktop+tableau_prep&version=tableau_prep_2018_1_1&topic=tableau_prep
 
