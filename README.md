@@ -5,7 +5,6 @@
 * Tableau Creator se consigue una experiencia analítica total dando todo el poder a los usuarios. 
 * Incluye Tableau Desktop, una licencia para Tableau Server o Tableau Online además de Tableau Prep.
 
-
 # Una nueva herramienta facil e intuitiva : 
 * Tableau Prep es una nuava herramienta que permite preparar los datos de manera facil e intuitiva.
 * Los usarios de este nuevo producto son analistas que preparan ellos mismos los datos. 
@@ -14,6 +13,10 @@
 https://keyrusspain.wordpress.com/2018/05/08/extra-extra-tableau-nos-trae-novedades/
 * Tableau Prep : to combine, shape, and clean your data for analysis
 https://www.tableau.com/products/prep
+
+# Tableau Prep Use Case : Gender Pay Gap.tflx in the code folder. 
+-Tableau Prep Use Case by Vizbiz : Split, Pivoting and Union with Tableau Prep
+* https://www.vizwiz.com/2018/06/split-pivoting-union.html?m=1
 
 # Lo que se puede hacer con Tableau Prep 2018
 -Limpiar los datos : filtracion, agrupar y reemplazar
@@ -36,11 +39,6 @@ https://www.tableau.com/products/prep
 
 -Exportar los datos limpiados para analysis 
 * https://www.tableau.com/fr-fr/learn/tutorials/on-demand/output-step?product=tableau_desktop+tableau_prep&version=tableau_prep_2018_1_1&topic=tableau_prep
-
-
-# Tableau Prep Use Case (Flow in the code section)
--Tableau Prep Use Case by Vizbiz : Split, Pivoting and Union with Tableau Prep
-* https://www.vizwiz.com/2018/06/split-pivoting-union.html?m=1
 
 
 # Aprender Tableau Prep 
