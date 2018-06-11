@@ -10,10 +10,10 @@
 * Tableau Prep es una nuava herramienta que permite preparar los datos de manera facil e intuitiva.
 * Los usarios de este nuevo producto son analistas que preparan ellos mismos los datos. 
 * Para  utilisarlo, no se necesita compertencias particular en ETL. 
-* Leer el articulo de Kerus Spain sobre la nueva oferta de Tableau : 
- -https://keyrusspain.wordpress.com/2018/05/08/extra-extra-tableau-nos-trae-novedades/
+* Leer el articulo de Kerus Spain sobre la nueva oferta de Tableau 
+https://keyrusspain.wordpress.com/2018/05/08/extra-extra-tableau-nos-trae-novedades/
 * Tableau Prep : to combine, shape, and clean your data for analysis
- -https://www.tableau.com/products/prep
+https://www.tableau.com/products/prep
 
 # Lo que se puede hacer con Tableau Prep 2018
 -Limpiar los datos : filtracion, agrupar y reemplazar
